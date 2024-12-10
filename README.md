@@ -14,6 +14,6 @@ Happy modeling and printing to all !
 
 ![Mannequin Head - Life Size - Medium poly count - CAD model 2](https://github.com/user-attachments/assets/6c5addc0-3588-4cb8-a0b7-d750dee4020e)
 
-![head 40deg xray x2048](https://github.com/user-attachments/assets/acbd41be-b1fc-42d1-bbda-1712ecadc2c0)
+![Head 1](https://github.com/user-attachments/assets/8fef1839-8133-4017-b310-71176491fe55)
 
 ![20241209_134146 head glued](https://github.com/user-attachments/assets/71db2419-7549-4d05-8212-3c75649d479b)
