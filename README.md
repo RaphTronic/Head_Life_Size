@@ -2,7 +2,7 @@
 
 Took me way too long to find, modify and print a life size human head, for a mask project.
 
-So I decided to document the journey and publish the files in case it helps someone else. Details in this blog post:
+So I decided to document the journey and publish the files in case it helps someone else. Details in this blog post: https://raphtronic.blogspot.com/2024/12/mannequin-head-life-size-3d-print.html
 
 Feel free to copy, remix, whatever.
 
