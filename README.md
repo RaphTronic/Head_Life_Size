@@ -6,6 +6,8 @@ So I decided to document the journey and publish the files in case it helps some
 
 The original head model is from lehthanis: https://www.thingiverse.com/thing:758647
 
+Sorry, couldn't upload the two Fusion360 CAD models due to Github's 25MB file size limit. Hit me if you want a copy.
+
 Feel free to copy / remix / whatever my files.
 
 Happy modeling and printing to all !
