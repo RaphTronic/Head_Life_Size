@@ -8,7 +8,7 @@ The original head model is from lehthanis: https://www.thingiverse.com/thing:758
 
 The Fusion360 CAD model is too big for Github, so it was posted here: https://drive.google.com/file/d/1gQq7Ibp2Q2ljJq9oYMTlVb3wVHEhpU2_/view?usp=sharing
 
-Feel free to copy / remix / whatever.
+Feel free to copy / remix / whatever my files, and respect lehtanis's license terms.
 
 Happy modeling and printing to all !
 
